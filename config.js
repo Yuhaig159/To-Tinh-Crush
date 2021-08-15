@@ -9,6 +9,6 @@ const CONFIG = {
     mess: 'HAPPY ANNIVERSARY 1 MONTHS ',
     messDesc: 'ANH YÊU EM. THƯƠNG BÀ XÃ.',
     messDesc: 'Anh không biết nói gì hết với mới nên cũng hong mún nói nhiều. Anh chỉ mong mình mãi vui dà hạnh phúc nhe bà xã. 1 lần nữa là ANH YÊU EM <3 <3 ',
-    btnAccept: 'EM CŨNG YÊU ANH, THƯƠNG ÔNG XÃAAAA',
+    btnAccept: 'EM CŨNG YÊU ANH, THƯƠNG ÔNG XÃAAA',
  
 }
